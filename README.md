@@ -15,10 +15,10 @@ npm run dev
 - Vite (setup)
 
 ### Project Specifications
-- This UI is completely responsive for all screen sizes 
-- There is an animation on revealing the steps and a bounce animation on icons of the steps
-- Elements are mapped using array and steps can be added or removed easily without affecting the design
-- Additionally the positions of the steps in wavy form is implemented using mathematical calculations and the arrows are also positioned using the coordinates of the steps and angle of inclinition between then (can be checked in the <Arrow/> Component)
+- This UI is fully responsive for all screen sizes.
+- It features an animation for revealing the steps and a bounce animation on icons of the steps.
+- Elements are mapped using arrays, and steps can be added or removed easily without affecting the design.
+- Additionally, the positions of the steps in a wavy form are implemented using mathematical calculations. The arrows are also positioned using the coordinates of the steps and the angle of inclination between them (can be checked in the <Arrow/> Component).
 
 
 
